@@ -1,4 +1,4 @@
-- #Hi there 👋, I'm Taner Safet! 
+# Hi there 👋 Taner Safet's Github 
 - 👀 I’m interested in frontend technologies and JavaScript 
 
 # Interests
